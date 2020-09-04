@@ -1,5 +1,4 @@
 ### Welcome to my Repository 💻
-<br/>
 
 ## Student, Developer, and Hobbyist!
 
