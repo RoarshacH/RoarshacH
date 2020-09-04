@@ -1,6 +1,5 @@
 ### Welcome to my Repository [website] 💻
-
-[![Website](<img align="left" alt="Visual Studio Code" width="64px" src="https://virlichsoftworks.files.wordpress.com/2018/10/cropped-logo32.png" />)](https://virlichsoftworks.wordpress.com/)
+[<img align="left" alt="Visual Studio Code" width="64px" src="https://virlichsoftworks.files.wordpress.com/2018/10/cropped-logo32.png" />][website]
 
 ## Student, Developer, and Hobbyist!
 
@@ -10,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RoarshacH" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="RoarshacH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -58,9 +57,11 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![RoarshacH's github stats](https://github-readme-stats.vercel.app/api?username=RoarshacH)](https://github.com/anuraghazra/github-readme-stats)
+  [![RoarshacH's github stats](https://github-readme-stats.vercel.app/api?username=RoarshacH&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoarshacH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-[website]: https://virlichsoftworks.wordpress.com/
+[website]: https://virlichsoftworks.wordpress.com
 [linkedin]: https://linkedin.com/in/vidusha-dilshan-42b5b1159
