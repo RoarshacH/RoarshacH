@@ -1,6 +1,4 @@
 ### Welcome to my Repository 💻
-
-[<img align="center" alt="Visual Studio Code" width="64px" src="https://virlichsoftworks.files.wordpress.com/2018/10/cropped-logo32.png"/>][website]
 <br/>
 
 ## Student, Developer, and Hobbyist!
