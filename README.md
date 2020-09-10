@@ -33,16 +33,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://virlichsoftworks.wordpress.com/)
-
----
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
