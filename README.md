@@ -2,8 +2,8 @@
 
 ## Student, Developer, and Hobbyist!
 
-- 🎓 Im currently on my final year of university!
-- 💻 I’m currently learning ASP.NET, Django, Laravel and Spring ⌨️
+- 🎓 Holding a degree in software engineering university!
+- 💻 I’m currently learning Java Spring, Laravel, React ⌨️
 - 🤖 I’m interested in Artificial intelligence and Robotics
 
 ### Connect with me:
@@ -14,7 +14,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I'M Proficient In:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Laravel" width="26px" src="https://img.favpng.com/11/16/20/laravel-software-framework-php-web-framework-model-view-controller-png-favpng-yuU40Bk53BdYvwqdnSCsE6va6.jpg" />
