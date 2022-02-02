@@ -2,8 +2,8 @@
 
 ## Student, Developer, and Hobbyist!
 
-- 🎓 Holding a degree in software engineering university!
-- 💻 I’m currently learning Java Spring, Laravel, React ⌨️
+- 🎓 Holding a degree in software engineering!
+- 💻 I’m currently learning React, Android and IOs Development ⌨️
 - 🤖 I’m interested in Artificial intelligence and Robotics
 
 ### Connect with me:
